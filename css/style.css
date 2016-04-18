@@ -1,0 +1,216 @@
+/*font-family: 'Lobster', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Chewy', cursive;
+*/
+
+#contenidos{
+	width: 1100px;
+	height: auto;
+	margin: auto;
+	position: relative;
+}
+
+
+/*ETIQUETAS*/
+
+body{
+background-image: url(../imagenes/fondos/fondo5.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+ #banner1{
+	width: 1080px;
+	height: 100;
+	border-radius: 10px;
+}
+
+ #logo1{
+	width: 150px;
+	height: 150px;
+	border-radius: 10px;
+}
+
+h1{
+font-family: 'Chewy', cursive;
+color: #3300ff ; 
+margin-left: 10px;
+font-size: 60px;
+text-align: center;
+
+}
+
+
+h2{
+font-family: 'Lobster', cursive;
+color: black;
+margin-left: 60px;
+font-size: 30px;
+text-align: center; 
+}
+
+h3{
+font-family: 'Lobster', cursive;
+color: black;
+font-size: 30px;
+text-align: center; 
+}
+
+h4{
+	font-family: 'Chewy', cursive;
+	color: black;
+	margin-left: 10px
+	font-size: 60px;
+	text-align: center;
+}
+
+img{
+
+	width:200px;
+	height:200px;
+	text-align: center;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	border-radius: 10px;
+
+}
+#perros{
+	width: 200px;
+	height: 200px;
+	margin-left: 10px;
+	border-radius: 10px;
+}
+
+#gato2{
+	width: 200px;
+	height: 200px;
+	margin-left: 10px;
+	margin-top: 10px;
+
+}
+
+header{
+	width: 900px;
+	height: 80 px;
+	background: rgba(255, 255, 255, 10,70);
+}
+
+nav{
+	margin: auto;
+width: 1080px;
+height: 60px;
+background: #66CCCC;
+border-radius: 10px;
+float: center;
+
+}
+ul{
+margin: center;
+padding-top: 4px;
+}
+
+li{
+	float: right;
+	list-style-type: none;
+	padding: 10px;
+	background: gray ;
+	margin: 3px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px blue inset; 
+
+}
+
+#parrafo{
+	float: right;
+	list-style-type: none;
+	padding: 10px;
+	background: violet;
+	margin: 8px;
+	border-radius: 15px;
+	box-shadow: 0 0 10px blue inset;
+}
+
+#parrafo2{
+	float: right;
+	list-style-type: none;
+	padding: 10px;
+	background: #66CCCC;
+	margin: 8px;
+	border-radius: 15px;
+	box-shadow: 0 0 10px white inset;
+}
+
+
+section{
+	width: 650px;
+	background: #996699;
+	height: 1100px;
+	float: left;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+aside{
+
+	width: 400px;
+	background: #009999;
+	height: 1100px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+footer{
+width: 1100px;
+height: 180px;
+background: maroon;
+float: left;
+margin-top: 20px;
+border-radius: 10px;
+margin-bottom: 20px;
+color:white;
+}
+
+p{
+
+	font-size: 15px;
+	font-weight: bolder;
+	line-height: 24px;
+	padding: 20px;
+	text-align: justify;
+	color: white;
+}
+
+
+
+
+
+/*CLASES*/
+
+.ancho_menu_home{width: 900px;}
+.ancho_menu_paginas{width: 1000px;}
+
+.menu:link{color: white; text-decoration: none;}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
+.menu:active{color: white; text-decoration: none;}
+
+/*SEUDO CLASES*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
